@@ -2,7 +2,7 @@
 
 A machine learning web application that predicts whether a free-trial software user will upgrade to a paid plan using the K-Nearest Neighbors (KNN) algorithm.
 
-🔗 **Live App Demo:** [Micro-Saas Conversion Predictor](https://ml-project02-used-car-prices.streamlit.app/)
+🔗 **Live App Demo:** [Micro-Saas Conversion Predictor](https://ml-project04-saas-conversion-predictor.streamlit.app/)
 
 ## 🧠 Concepts Covered
 * **K-Nearest Neighbors (KNN):** Using distance mathematics to classify new users based on the behavior of the most similar existing users.
